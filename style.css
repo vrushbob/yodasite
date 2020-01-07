@@ -11,3 +11,39 @@
     font-family: 'star wars';
     src: url("Starjout.ttf");
 }
+
+
+div.ex2 {
+    float: left;
+    height: 500px;
+    width: 25%;
+    border: 3px solid green;
+    border-radius: 25px;
+    margin-left: 4%;
+    margin-right: 3%;
+}
+
+div.ex3{
+    float: left;
+    height: 500px;
+    width: 25%;
+    border: 3px solid green;
+    border-radius: 25px;
+    margin-left: 4%;
+    margin-right: 3%;
+}
+
+div.ex4{
+    float: left;
+    height: 500px;
+    width: 25%;
+    border: 3px solid green;
+    border-radius: 25px;
+    margin-left: 4%;
+    margin-right: 3%;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+}
